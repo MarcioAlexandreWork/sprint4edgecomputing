@@ -21,3 +21,4 @@ Chegamos a fazer algo parecido na ultima sprint, só que utilizando um programa 
 Podemos aplicar essa tecnologia em sensores de batimento cardiaco, sensores de velocidade ou até sensores de gol para poder aumentar ainda mais a eficiência em jogos e campeonatos, podemos pegar essas informações e pela núvel replica-las a algum site ou aplicativo em formato de gráfico para que pessoas possam ver publicações de jogos e jogadoras em tempo real, como a quantidade de gols cada time fez e à que velocidade as jogadoras estão
 
 # Link sprint 3: https://github.com/MarcioAlexandreWork/Sprint-3-IOT-ESP32-Passabola
+# Link projeto Wokwi: https://wokwi.com/projects/446981257377655809
