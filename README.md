@@ -5,7 +5,7 @@ sprint-4-edgecomputing
 # Leonardo Lopes 562171
 
 # Sobre o projeto:
-Demonstração do uso de comunicações IoT com um servidor Ubuntu utilizando conecções MQTT
+Demonstração do uso de comunicações IoT com um servidor Ubuntu utilizando conexões MQTT
 
 # Como funciona?
 MQTT é uma ferramenta/serviço IoT que permite a comunicação entre um aparelho físico e um software, o MQTT utiliza como ponte para essa comunicação uma nuvem/servidor que para ser acessada é necessário o uso do IP dessa núvem e a porta de acesso (como exemplo a porta 1883)
