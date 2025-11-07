@@ -1,4 +1,4 @@
-# sprint-4-edgecomputing
+sprint-4-edgecomputing
 # ESPK1
 # Márcio Alexnadre 566238
 # Fabio Apolinario 561828
