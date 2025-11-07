@@ -2,7 +2,7 @@
 #include <PubSubClient.h>
 #include <PulseSensorPlayground.h>
 
-
+//Demonstração do uso  de publicações MQTT com um sesnor de pulso, não pude testar pois o wokwi não possui um dispositivo de senso de batimanto simulável, peço desculpas se tiver qualquer bug
 const int pulsoSet = 16;
 int treshold;
 PulseSensorPlayground pulseSensor;
